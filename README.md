@@ -66,6 +66,8 @@ II.가상현실 기반 대화형 에이전트 Ellie
 
 <img src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/060ea709-3d8c-46ed-a5b3-ea659421bdf6" width="50" height="50"/>
 
+<img width="532" alt="Untitled (5)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/5a002caf-9522-4949-ae4c-bc47790b47f0">
+
 - **실험 모델**
 
 GPT-3.5-turbo-0301(ChatGPT)
