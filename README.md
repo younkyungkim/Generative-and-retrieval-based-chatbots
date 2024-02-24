@@ -13,7 +13,6 @@
 
 이에 대한 대안으로 인공지능(AI) 기반 ‘Chatbot(챗봇)’ 서비스의 시도가 있다.
 
-<center><img width="78" alt="Untitled (2)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/f0740819-eae1-4582-b5cf-287e26fddf3b"></center>
 
 <p align="center">
  <img width="78" alt="Untitled (2)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/f0740819-eae1-4582-b5cf-287e26fddf3b">
