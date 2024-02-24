@@ -64,7 +64,7 @@ II.가상현실 기반 대화형 에이전트 Ellie
 ![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/060ea709-3d8c-46ed-a5b3-ea659421bdf6){: width="100" height="100"}
 
 
-<img src="[https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/060ea709-3d8c-46ed-a5b3-ea659421bdf6]" width="50" height="50"/>
+<img src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/060ea709-3d8c-46ed-a5b3-ea659421bdf6" width="50" height="50"/>
 
 - **실험 모델**
 
