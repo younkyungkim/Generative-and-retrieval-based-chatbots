@@ -13,7 +13,7 @@
 
 이에 대한 대안으로 인공지능(AI) 기반 ‘Chatbot(챗봇)’ 서비스의 시도가 있다.
 
-![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/acb29a8e-c7a6-4680-bb12-a4852e99963e)
+<img width="78" alt="Untitled (2)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/f0740819-eae1-4582-b5cf-287e26fddf3b">
 
 
 본 연구에서는 챗봇이 사람의 마음을 언어로서 위로할 수 있다는 측면에서, 실 만족도와 GPT-3.5-turbo-0301(ChatGPT)를 활용한 거대언어모델의 자동평가를 함께 확인한다.
@@ -49,22 +49,17 @@ II.가상현실 기반 대화형 에이전트 Ellie
 > 
 1. 챗봇 사용 횟수 및 만족도
 
-![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/c496bbac-d49e-49f0-a443-d43a99105ccb)
+<img width="939" alt="Untitled (3)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/1c7a899d-7f24-4858-9cf2-85f1ee66e569">
 
 
 **“검색형 챗봇이 초기 탈락자가 적었다”**라는 인사이트를 통해 사용 빈도와 만족도를 함께 분석하기 위해 아래와 같은 플롯을 생성하였다.
 
-![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/67ba1155-8922-45d3-a8da-fad954973c5f)
+<img width="940" alt="Untitled (4)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/53c28d4b-b226-4d6b-b027-26764d9b16e2">
 
 
 **“챗봇 질 향상을 위해 엉뚱한 대답의 빈도를 높이는 것보다, 적절한 답변의 품질에 집중해야 한다”**라는 인사이트를 바탕으로 사용자 고민에 대한 챗봇의 응답 적절성을 평가하기 위한 실험을 수행하였다.
 
 1. GhatGPT  자동 평가
-
-![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/060ea709-3d8c-46ed-a5b3-ea659421bdf6){: width="100" height="100"}
-
-
-<img src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/060ea709-3d8c-46ed-a5b3-ea659421bdf6" width="50" height="50"/>
 
 <img width="532" alt="Untitled (5)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/5a002caf-9522-4949-ae4c-bc47790b47f0">
 
@@ -82,15 +77,15 @@ ChatGPT가 사용자 고민에 대한 챗봇의 응답 적절성을 나타내는
 
 > **실험결과**
 > 
-
-![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/bce94143-01d0-46de-a266-e8df3b2fa31f)
+<img width="939" alt="Untitled (6)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/7f110220-f6c3-4e87-ad06-4f37351541b6">
 
 
 본 연구에서는 챗봇 상담의 효과를 객관적으로 측정하고자 하며, 이를 위해 우울지수를 의미하는 PHQ-9 수치의 변화를 중심으로 한 시각적 분석을 수행하였다. 상담 전후의 PHQ-9 점수 차이를 통해 챗봇 상담의 영향력을 명료하게 드러내고, 향후 개선의 필요성과 방향성을 모색하였다.
 
-![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/11aec533-83d6-4572-bf6f-e7f8eed682c7)
+<img width="942" alt="Untitled (7)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/e58bc7fe-8ecc-4fe8-8fc7-8aa8e7941bc0">
 
-평균 PHQ-9 수치는 사전 13.91, 사후 9.1의 결과를 보여, 4.8점이 감소되었다. 이 수치는 한 우울 등급을 변화시킬 수 있는 5점에 가까워서 8일이라는 사용일을 고려할 때 의미있는 수치이다. 이는 검색형과 생성형 챗봇 사용자들 중 67%가 우울증 증상 감소를 경험하였음을 의미한다. 실제로 만족도 조사 중 ‘챗봇 경험이 위안 측면에 의미있었음‘ 이상을 선택한 비율이 약 절반이었던 결과와 유사한 결과이다.
+평균 PHQ-9 수치는 사전 13.91, 사후 9.1의 결과를 보여, 4.8점이 감소되었다. 이 수치는 한 우울 등급을 변화시킬 수 있는 5점에 가까워서 8![Uploading Untitled (7).png…]()
+일이라는 사용일을 고려할 때 의미있는 수치이다. 이는 검색형과 생성형 챗봇 사용자들 중 67%가 우울증 증상 감소를 경험하였음을 의미한다. 실제로 만족도 조사 중 ‘챗봇 경험이 위안 측면에 의미있었음‘ 이상을 선택한 비율이 약 절반이었던 결과와 유사한 결과이다.
 
 > **결론**
 > 
