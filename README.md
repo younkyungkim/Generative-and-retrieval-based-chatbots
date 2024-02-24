@@ -13,7 +13,8 @@
 
 이에 대한 대안으로 인공지능(AI) 기반 ‘Chatbot(챗봇)’ 서비스의 시도가 있다.
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/5bab7346-c468-42f2-a78a-e2547f968428/b62be25e-7748-4cad-b4d6-6f4571141244/Untitled.png)
+![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/acb29a8e-c7a6-4680-bb12-a4852e99963e)
+
 
 본 연구에서는 챗봇이 사람의 마음을 언어로서 위로할 수 있다는 측면에서, 실 만족도와 GPT-3.5-turbo-0301(ChatGPT)를 활용한 거대언어모델의 자동평가를 함께 확인한다.
 
