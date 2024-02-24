@@ -49,17 +49,20 @@ II.가상현실 기반 대화형 에이전트 Ellie
 > 
 1. 챗봇 사용 횟수 및 만족도
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/5bab7346-c468-42f2-a78a-e2547f968428/ae65b97b-8146-45ca-b0d2-8746841c8061/Untitled.png)
+![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/c496bbac-d49e-49f0-a443-d43a99105ccb)
+
 
 **“검색형 챗봇이 초기 탈락자가 적었다”**라는 인사이트를 통해 사용 빈도와 만족도를 함께 분석하기 위해 아래와 같은 플롯을 생성하였다.
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/5bab7346-c468-42f2-a78a-e2547f968428/d09dd844-a0bc-465f-830d-79c1d15c60fe/Untitled.png)
+![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/67ba1155-8922-45d3-a8da-fad954973c5f)
+
 
 **“챗봇 질 향상을 위해 엉뚱한 대답의 빈도를 높이는 것보다, 적절한 답변의 품질에 집중해야 한다”**라는 인사이트를 바탕으로 사용자 고민에 대한 챗봇의 응답 적절성을 평가하기 위한 실험을 수행하였다.
 
 1. GhatGPT  자동 평가
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/5bab7346-c468-42f2-a78a-e2547f968428/27c259c0-ca5d-4506-8d10-a3f4a6c83ff9/Untitled.png)
+![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/060ea709-3d8c-46ed-a5b3-ea659421bdf6)
+
 
 - **실험 모델**
 
@@ -76,11 +79,12 @@ ChatGPT가 사용자 고민에 대한 챗봇의 응답 적절성을 나타내는
 > **실험결과**
 > 
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/5bab7346-c468-42f2-a78a-e2547f968428/93925813-5755-4e2c-8224-38e2b4ca0cf2/Untitled.png)
+![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/bce94143-01d0-46de-a266-e8df3b2fa31f)
+
 
 본 연구에서는 챗봇 상담의 효과를 객관적으로 측정하고자 하며, 이를 위해 우울지수를 의미하는 PHQ-9 수치의 변화를 중심으로 한 시각적 분석을 수행하였다. 상담 전후의 PHQ-9 점수 차이를 통해 챗봇 상담의 영향력을 명료하게 드러내고, 향후 개선의 필요성과 방향성을 모색하였다.
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/5bab7346-c468-42f2-a78a-e2547f968428/e4151d39-b10a-4a0c-a561-237c305c9630/Untitled.png)
+![image](https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/11aec533-83d6-4572-bf6f-e7f8eed682c7)
 
 평균 PHQ-9 수치는 사전 13.91, 사후 9.1의 결과를 보여, 4.8점이 감소되었다. 이 수치는 한 우울 등급을 변화시킬 수 있는 5점에 가까워서 8일이라는 사용일을 고려할 때 의미있는 수치이다. 이는 검색형과 생성형 챗봇 사용자들 중 67%가 우울증 증상 감소를 경험하였음을 의미한다. 실제로 만족도 조사 중 ‘챗봇 경험이 위안 측면에 의미있었음‘ 이상을 선택한 비율이 약 절반이었던 결과와 유사한 결과이다.
 
